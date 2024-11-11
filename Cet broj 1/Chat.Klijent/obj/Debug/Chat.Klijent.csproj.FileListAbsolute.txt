@@ -1,0 +1,26 @@
+C:\Users\Filip\Desktop\Cet broj 1\Chat.Klijent\bin\Debug\Chat.Klijent.exe.config
+C:\Users\Filip\Desktop\Cet broj 1\Chat.Klijent\bin\Debug\Chat.Klijent.exe
+C:\Users\Filip\Desktop\Cet broj 1\Chat.Klijent\bin\Debug\Chat.Klijent.pdb
+C:\Users\Filip\Desktop\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.Form1.resources
+C:\Users\Filip\Desktop\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.Properties.Resources.resources
+C:\Users\Filip\Desktop\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.exe
+C:\Users\Filip\Desktop\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.pdb
+C:\Users\Filip\Desktop\Cet broj 1\Chat.Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Filip\Desktop\Cet broj 1\Chat.Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Filip\Desktop\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.csproj.CopyComplete
+C:\Users\sasha\Downloads\Cet broj 1\Cet broj 1\Chat.Klijent\bin\Debug\Chat.Klijent.exe.config
+C:\Users\sasha\Downloads\Cet broj 1\Cet broj 1\Chat.Klijent\bin\Debug\Chat.Klijent.exe
+C:\Users\sasha\Downloads\Cet broj 1\Cet broj 1\Chat.Klijent\bin\Debug\Chat.Klijent.pdb
+C:\Users\sasha\Downloads\Cet broj 1\Cet broj 1\Chat.Klijent\bin\Debug\Biblioteka.dll
+C:\Users\sasha\Downloads\Cet broj 1\Cet broj 1\Chat.Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\sasha\Downloads\Cet broj 1\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.csproj.AssemblyReference.cache
+C:\Users\sasha\Downloads\Cet broj 1\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.Form1.resources
+C:\Users\sasha\Downloads\Cet broj 1\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.Properties.Resources.resources
+C:\Users\sasha\Downloads\Cet broj 1\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.csproj.GenerateResource.cache
+C:\Users\sasha\Downloads\Cet broj 1\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Downloads\Cet broj 1\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.csproj.CopyComplete
+C:\Users\sasha\Downloads\Cet broj 1\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.exe
+C:\Users\sasha\Downloads\Cet broj 1\Cet broj 1\Chat.Klijent\obj\Debug\Chat.Klijent.pdb
